@@ -3,6 +3,10 @@
  	font-family: Helvetica;
  }
 
+ h1 {
+ 	font-weight: 100;Ò
+ }
+
 #logo{
 	border-radius: 5px;
 	height: 80px;
